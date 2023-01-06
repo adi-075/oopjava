@@ -14,10 +14,11 @@ Java Programs for my College
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
-        <li><a href="#License">License</a></li>
-        <li><a href="#Contact">Contact</a></li>
+        <li><a href="#license">License</a></li>
+        <li><a href="#contact">Contact</a></li>
       </ul>
     </li>
+        <li><a href="#syllabus">Syllabus</a></li>
   </ol>
 </details>
 
@@ -29,6 +30,18 @@ This Project contains all the Java Programs that are required in my College.
 ## Getting Started
 
 To setup a working environment to execute the files, follow the steps given below.
+
+<!-- Syllabus -->
+## Syllabus
+<ol>
+  <li> Classes and Objects </li>
+  <li> Methods and Constructors </li>
+  <li> Overloading and Overriding </li>
+  <li> Inheritance and Abstract Class </li>
+  <li> Packages and Inheritance </li>
+  <li> String Handling </li>
+  <li> GUI Programming </li>
+  </ol>
 
 ### Prerequisites
 
