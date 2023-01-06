@@ -31,18 +31,6 @@ This Project contains all the Java Programs that are required in my College.
 
 To setup a working environment to execute the files, follow the steps given below.
 
-<!-- Syllabus -->
-## Syllabus
-<ol>
-  <li> Classes and Objects </li>
-  <li> Methods and Constructors </li>
-  <li> Overloading and Overriding </li>
-  <li> Inheritance and Abstract Class </li>
-  <li> Packages and Inheritance </li>
-  <li> String Handling </li>
-  <li> GUI Programming </li>
-  </ol>
-
 ### Prerequisites
 
 A code editor like IntelliJ or Eclipse.
@@ -57,7 +45,7 @@ Follow the steps given below:-
    ```
    git clone https://github.com/adi-075/oopjava.git
    ```
-
+   
 <!-- LICENSE -->
 ## License
 
@@ -67,5 +55,17 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Project Link: (https://github.com/adi-075/oopjava)
 
+
+<!-- Syllabus -->
+## Syllabus
+<ol>
+  <li> Classes and Objects </li>
+  <li> Methods and Constructors </li>
+  <li> Overloading and Overriding </li>
+  <li> Inheritance and Abstract Class </li>
+  <li> Packages and Inheritance </li>
+  <li> String Handling </li>
+  <li> GUI Programming </li>
+  </ol>
 
 
