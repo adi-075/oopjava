@@ -33,7 +33,7 @@ To setup a working environment to execute the files, follow the steps given belo
 
 ### Prerequisites
 
-A code editor like IntelliJ or Eclipse.
+An IDE like IntelliJ or Eclipse.
 JDK version 17+
 
 ### Installation
