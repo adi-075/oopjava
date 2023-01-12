@@ -1,9 +1,9 @@
 import java.awt.*;
-public class ImprovedProgram extends Frame{ //Class extends Frame class to inherit all it's methods
+public class FlowLayout extends Frame{ //Class extends Frame class to inherit all it's methods
     Label l1;
     Button b1;
-    public ImprovedProgram() {
-        setLayout(new FlowLayout());
+    public FlowLayout() {
+        setLayout(new java.awt.GridLayout());
         setBackground(Color.yellow);
 
         l1 = new Label("First Name");
@@ -21,6 +21,6 @@ public class ImprovedProgram extends Frame{ //Class extends Frame class to inher
     }
 
     public static void main(String args[]){
-        ImprovedProgram imp = new ImprovedProgram();
+        GLayout imp = new GLayout();
     }
 }
